@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Frete ANTT",
+  "description": "Calculadora online para o piso mínimo de frete da ANTT, com atualização de valores e cálculo detalhado.",
+  "requestFramePermissions": []
+}
